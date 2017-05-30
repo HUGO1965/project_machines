@@ -36,8 +36,7 @@ function asignar()
 var nroMaquina=maquinas.shift();
 var nomMecanico=mecanicos.pop();
 document.write(nroMaquina+"-"+nomMecanico);
-document.write("<br>");
-
+/*document.write("<br>");*/
  
 }
 
